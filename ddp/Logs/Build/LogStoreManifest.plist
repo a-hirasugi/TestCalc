@@ -6,6 +6,35 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
+		<key>06EECCDA-A382-4219-82FC-FC8ABA7F84A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>06EECCDA-A382-4219-82FC-FC8ABA7F84A2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CalculatorApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CalculatorApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing workspace CalculatorApp with scheme CalculatorApp</string>
+			<key>timeStartedRecording</key>
+			<real>578980576.90249705</real>
+			<key>timeStoppedRecording</key>
+			<real>578980577.57996595</real>
+			<key>title</key>
+			<string>Testing workspace CalculatorApp with scheme CalculatorApp</string>
+			<key>uniqueIdentifier</key>
+			<string>06EECCDA-A382-4219-82FC-FC8ABA7F84A2</string>
+		</dict>
 		<key>374810DD-53C8-4A4D-B390-A3082664C77A</key>
 		<dict>
 			<key>className</key>
@@ -34,35 +63,6 @@
 			<string>Testing workspace CalculatorApp with scheme CalculatorApp</string>
 			<key>uniqueIdentifier</key>
 			<string>374810DD-53C8-4A4D-B390-A3082664C77A</string>
-		</dict>
-		<key>F08E980D-66DF-41C1-A74A-9F28684B7ACD</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F08E980D-66DF-41C1-A74A-9F28684B7ACD.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>CalculatorApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>CalculatorApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Testing workspace CalculatorApp with scheme CalculatorApp</string>
-			<key>timeStartedRecording</key>
-			<real>578976089.35539997</real>
-			<key>timeStoppedRecording</key>
-			<real>578976089.77026296</real>
-			<key>title</key>
-			<string>Testing workspace CalculatorApp with scheme CalculatorApp</string>
-			<key>uniqueIdentifier</key>
-			<string>F08E980D-66DF-41C1-A74A-9F28684B7ACD</string>
 		</dict>
 	</dict>
 </dict>
