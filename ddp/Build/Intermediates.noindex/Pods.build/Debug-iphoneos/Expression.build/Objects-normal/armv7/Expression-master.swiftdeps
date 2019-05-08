@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "355bdc11886a3af6474747d59c94780f"
+build_time: [1557292317, 723563000]
+inputs:
+  "/Users/ta-takahashi/Desktop/CalculatorApp/Pods/Expression/Sources/AnyExpression.swift": [1554434018, 0]
+  "/Users/ta-takahashi/Desktop/CalculatorApp/Pods/Expression/Sources/Expression.swift": [1554434018, 0]

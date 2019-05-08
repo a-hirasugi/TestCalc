@@ -1,0 +1,119 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Expression/Expression.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Expression-Swift.h",
+          'external-contents': "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Expression/Expression.framework/Headers/Expression-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Expression-umbrella.h",
+          'external-contents': "/Users/ta-takahashi/Desktop/CalculatorApp/Pods/Target Support Files/Expression/Expression-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Expression.h",
+          'external-contents': "/Users/ta-takahashi/Desktop/CalculatorApp/Pods/Expression/Sources/Expression.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Expression/Expression.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Expression.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Pods_CalculatorApp.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-CalculatorApp-umbrella.h",
+          'external-contents': "/Users/ta-takahashi/Desktop/CalculatorApp/Pods/Target Support Files/Pods-CalculatorApp/Pods-CalculatorApp-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_CalculatorApp-Swift.h",
+          'external-contents': "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Pods_CalculatorApp.framework/Headers/Pods_CalculatorApp-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Pods_CalculatorApp.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-CalculatorApp.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Pods_CalculatorAppTests.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-CalculatorAppTests-umbrella.h",
+          'external-contents': "/Users/ta-takahashi/Desktop/CalculatorApp/Pods/Target Support Files/Pods-CalculatorAppTests/Pods-CalculatorAppTests-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_CalculatorAppTests-Swift.h",
+          'external-contents': "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Pods_CalculatorAppTests.framework/Headers/Pods_CalculatorAppTests-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Pods_CalculatorAppTests.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-CalculatorAppTests.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Pods_CalculatorAppUITests.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-CalculatorAppUITests-umbrella.h",
+          'external-contents': "/Users/ta-takahashi/Desktop/CalculatorApp/Pods/Target Support Files/Pods-CalculatorAppUITests/Pods-CalculatorAppUITests-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_CalculatorAppUITests-Swift.h",
+          'external-contents': "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Pods_CalculatorAppUITests.framework/Headers/Pods_CalculatorAppUITests-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Pods_CalculatorAppUITests.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-CalculatorAppUITests.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
