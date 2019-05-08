@@ -35,7 +35,7 @@
 			<key>uniqueIdentifier</key>
 			<string>06EECCDA-A382-4219-82FC-FC8ABA7F84A2</string>
 		</dict>
-		<key>374810DD-53C8-4A4D-B390-A3082664C77A</key>
+		<key>F5458CDB-38BE-4C65-9AED-166D477168F8</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -44,7 +44,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>374810DD-53C8-4A4D-B390-A3082664C77A.xcactivitylog</string>
+			<string>F5458CDB-38BE-4C65-9AED-166D477168F8.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
@@ -56,13 +56,13 @@
 			<key>signature</key>
 			<string>Testing workspace CalculatorApp with scheme CalculatorApp</string>
 			<key>timeStartedRecording</key>
-			<real>578977836.71615899</real>
+			<real>578984838.31520104</real>
 			<key>timeStoppedRecording</key>
-			<real>578977837.23465502</real>
+			<real>578984849.05001497</real>
 			<key>title</key>
 			<string>Testing workspace CalculatorApp with scheme CalculatorApp</string>
 			<key>uniqueIdentifier</key>
-			<string>374810DD-53C8-4A4D-B390-A3082664C77A</string>
+			<string>F5458CDB-38BE-4C65-9AED-166D477168F8</string>
 		</dict>
 	</dict>
 </dict>
