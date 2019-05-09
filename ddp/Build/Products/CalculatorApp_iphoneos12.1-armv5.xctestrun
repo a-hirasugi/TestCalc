@@ -6,17 +6,17 @@
 	<dict>
 		<key>BundleIdentifiersForCrashReportEmphasis</key>
 		<array>
-			<string>jp.co.CalculatorApp</string>
 			<string>afaf.CalculatorAppTests</string>
+			<string>jp.co.CalculatorApp</string>
 			<string>afaf.CalculatorAppUITests</string>
 		</array>
 		<key>CommandLineArguments</key>
 		<array/>
 		<key>DependentProductPaths</key>
 		<array>
-			<string>__TESTROOT__/Debug-iphoneos/CalculatorApp.app</string>
-			<string>__TESTROOT__/Debug-iphoneos/CalculatorApp.app/PlugIns/CalculatorAppTests.xctest</string>
 			<string>__TESTROOT__/Debug-iphoneos/CalculatorAppUITests-Runner.app/PlugIns/CalculatorAppUITests.xctest</string>
+			<string>__TESTROOT__/Debug-iphoneos/CalculatorApp.app/PlugIns/CalculatorAppTests.xctest</string>
+			<string>__TESTROOT__/Debug-iphoneos/CalculatorApp.app</string>
 		</array>
 		<key>EnvironmentVariables</key>
 		<dict>
@@ -59,17 +59,17 @@
 	<dict>
 		<key>BundleIdentifiersForCrashReportEmphasis</key>
 		<array>
-			<string>jp.co.CalculatorApp</string>
 			<string>afaf.CalculatorAppTests</string>
+			<string>jp.co.CalculatorApp</string>
 			<string>afaf.CalculatorAppUITests</string>
 		</array>
 		<key>CommandLineArguments</key>
 		<array/>
 		<key>DependentProductPaths</key>
 		<array>
-			<string>__TESTROOT__/Debug-iphoneos/CalculatorApp.app</string>
-			<string>__TESTROOT__/Debug-iphoneos/CalculatorApp.app/PlugIns/CalculatorAppTests.xctest</string>
 			<string>__TESTROOT__/Debug-iphoneos/CalculatorAppUITests-Runner.app/PlugIns/CalculatorAppUITests.xctest</string>
+			<string>__TESTROOT__/Debug-iphoneos/CalculatorApp.app/PlugIns/CalculatorAppTests.xctest</string>
+			<string>__TESTROOT__/Debug-iphoneos/CalculatorApp.app</string>
 		</array>
 		<key>EnvironmentVariables</key>
 		<dict>

@@ -1,0 +1,578 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "13CalculatorApp14ViewControllerC"
+provides-member:
+- ["13CalculatorApp14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "answerCal"
+- "answerLabel"
+- "clearCal"
+- "formulaLabel"
+- "inputFormula"
+- "viewDidLoad"
+depends-top-level:
+- !private "+"
+- "AssignmentPrecedence"
+- !private "Expression"
+- !private "NSString"
+- "String"
+- !private "StringLiteralType"
+- "UIButton"
+- "UILabel"
+- "UIViewController"
+- !private "UnicodeScalarType"
+- "ViewController"
+depends-member:
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["SK", "replacingOccurrences"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["So15CALayerDelegateP", "titleLabel"]
+- !private ["s7CVarArgP", "CompareOptions"]
+- !private ["s7CVarArgP", "Expression"]
+- !private ["s7CVarArgP", "NSString"]
+- !private ["s7CVarArgP", "String"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "answerLabel"]
+- !private ["s7CVarArgP", "evalFormula"]
+- !private ["s7CVarArgP", "formatAnswer"]
+- !private ["s7CVarArgP", "formatFormula"]
+- !private ["s7CVarArgP", "formulaLabel"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "replacingOccurrences"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "titleLabel"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "replacingOccurrences"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "replacingOccurrences"]
+- !private ["So22NSStringCompareOptionsV", "regularExpression"]
+- !private ["s28CustomDebugStringConvertibleP", "CompareOptions"]
+- !private ["s28CustomDebugStringConvertibleP", "Expression"]
+- !private ["s28CustomDebugStringConvertibleP", "NSString"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "answerLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "evalFormula"]
+- !private ["s28CustomDebugStringConvertibleP", "formatAnswer"]
+- !private ["s28CustomDebugStringConvertibleP", "formatFormula"]
+- !private ["s28CustomDebugStringConvertibleP", "formulaLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "replacingOccurrences"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "titleLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "CompareOptions"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "replacingOccurrences"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "replacingOccurrences"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "CompareOptions"]
+- !private ["s23CustomStringConvertibleP", "Expression"]
+- !private ["s23CustomStringConvertibleP", "NSString"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "answerLabel"]
+- !private ["s23CustomStringConvertibleP", "evalFormula"]
+- !private ["s23CustomStringConvertibleP", "formatAnswer"]
+- !private ["s23CustomStringConvertibleP", "formatFormula"]
+- !private ["s23CustomStringConvertibleP", "formulaLabel"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "replacingOccurrences"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "titleLabel"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "replacingOccurrences"]
+- !private ["Se", "text"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "replacingOccurrences"]
+- !private ["SE", "text"]
+- !private ["SQ", "CompareOptions"]
+- !private ["SQ", "Expression"]
+- !private ["SQ", "NSString"]
+- !private ["SQ", "String"]
+- ["SQ", ""]
+- !private ["SQ", "answerLabel"]
+- !private ["SQ", "evalFormula"]
+- !private ["SQ", "formatAnswer"]
+- !private ["SQ", "formatFormula"]
+- !private ["SQ", "formulaLabel"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "regularExpression"]
+- !private ["SQ", "replacingOccurrences"]
+- !private ["SQ", "text"]
+- !private ["SQ", "titleLabel"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s25ExpressibleByArrayLiteralP", "regularExpression"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "CompareOptions"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "replacingOccurrences"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s26ExpressibleByStringLiteralP", "CompareOptions"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "replacingOccurrences"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "CompareOptions"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "replacingOccurrences"]
+- !private ["SH", "CompareOptions"]
+- !private ["SH", "Expression"]
+- !private ["SH", "NSString"]
+- !private ["SH", "String"]
+- ["SH", ""]
+- !private ["SH", "answerLabel"]
+- !private ["SH", "evalFormula"]
+- !private ["SH", "formatAnswer"]
+- !private ["SH", "formatFormula"]
+- !private ["SH", "formulaLabel"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "replacingOccurrences"]
+- !private ["SH", "text"]
+- !private ["SH", "titleLabel"]
+- !private ["SH", "viewDidLoad"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "replacingOccurrences"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "replacingOccurrences"]
+- !private ["So8NSCodingP", "CompareOptions"]
+- !private ["So8NSCodingP", "Expression"]
+- !private ["So8NSCodingP", "NSString"]
+- !private ["So8NSCodingP", "String"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "answerLabel"]
+- !private ["So8NSCodingP", "evalFormula"]
+- !private ["So8NSCodingP", "formatAnswer"]
+- !private ["So8NSCodingP", "formatFormula"]
+- !private ["So8NSCodingP", "formulaLabel"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "replacingOccurrences"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "titleLabel"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "CompareOptions"]
+- !private ["So9NSCopyingP", "replacingOccurrences"]
+- !private ["So26NSExtensionRequestHandlingP", "Expression"]
+- !private ["So26NSExtensionRequestHandlingP", "NSString"]
+- !private ["So26NSExtensionRequestHandlingP", "String"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "answerLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "evalFormula"]
+- !private ["So26NSExtensionRequestHandlingP", "formatAnswer"]
+- !private ["So26NSExtensionRequestHandlingP", "formatFormula"]
+- !private ["So26NSExtensionRequestHandlingP", "formulaLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So21NSItemProviderReadingP", "CompareOptions"]
+- !private ["So21NSItemProviderReadingP", "replacingOccurrences"]
+- !private ["So21NSItemProviderWritingP", "CompareOptions"]
+- !private ["So21NSItemProviderWritingP", "replacingOccurrences"]
+- !private ["So16NSMutableCopyingP", "CompareOptions"]
+- !private ["So16NSMutableCopyingP", "replacingOccurrences"]
+- !private ["So8NSObjectC", "CompareOptions"]
+- !private ["So8NSObjectC", "Expression"]
+- !private ["So8NSObjectC", "NSString"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "answerCal"]
+- ["So8NSObjectC", "answerLabel"]
+- ["So8NSObjectC", "clearCal"]
+- ["So8NSObjectC", "evalFormula"]
+- ["So8NSObjectC", "formatAnswer"]
+- ["So8NSObjectC", "formatFormula"]
+- ["So8NSObjectC", "formulaLabel"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "inputFormula"]
+- !private ["So8NSObjectC", "replacingOccurrences"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "titleLabel"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "CompareOptions"]
+- !private ["So8NSObjectP", "Expression"]
+- !private ["So8NSObjectP", "NSString"]
+- !private ["So8NSObjectP", "String"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "answerLabel"]
+- !private ["So8NSObjectP", "evalFormula"]
+- !private ["So8NSObjectP", "formatAnswer"]
+- !private ["So8NSObjectP", "formatFormula"]
+- !private ["So8NSObjectP", "formulaLabel"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "replacingOccurrences"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "titleLabel"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "CompareOptions"]
+- !private ["So14NSSecureCodingP", "replacingOccurrences"]
+- !private ["So8NSStringC", "CompareOptions"]
+- !private ["So8NSStringC", "replacingOccurrences"]
+- !private ["s9OptionSetP", "regularExpression"]
+- !private ["Sq", "text"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "replacingOccurrences"]
+- !private ["SY", "regularExpression"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "replacingOccurrences"]
+- !private ["s10SetAlgebraP", "regularExpression"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "replacingOccurrences"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "replacingOccurrences"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "replacingOccurrences"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "replacingOccurrences"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "titleLabel"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So29UIAccessibilityIdentificationP", "titleLabel"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So12UIAppearanceP", "titleLabel"]
+- !private ["So21UIAppearanceContainerP", "Expression"]
+- !private ["So21UIAppearanceContainerP", "NSString"]
+- !private ["So21UIAppearanceContainerP", "String"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "answerLabel"]
+- !private ["So21UIAppearanceContainerP", "evalFormula"]
+- !private ["So21UIAppearanceContainerP", "formatAnswer"]
+- !private ["So21UIAppearanceContainerP", "formatFormula"]
+- !private ["So21UIAppearanceContainerP", "formulaLabel"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "titleLabel"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So8UIButtonC", "titleLabel"]
+- !private ["So18UIContentContainerP", "Expression"]
+- !private ["So18UIContentContainerP", "NSString"]
+- !private ["So18UIContentContainerP", "String"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "answerLabel"]
+- !private ["So18UIContentContainerP", "evalFormula"]
+- !private ["So18UIContentContainerP", "formatAnswer"]
+- !private ["So18UIContentContainerP", "formatFormula"]
+- !private ["So18UIContentContainerP", "formulaLabel"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So9UIControlC", "titleLabel"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So17UICoordinateSpaceP", "titleLabel"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So13UIDynamicItemP", "titleLabel"]
+- !private ["So18UIFocusEnvironmentP", "Expression"]
+- !private ["So18UIFocusEnvironmentP", "NSString"]
+- !private ["So18UIFocusEnvironmentP", "String"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "answerLabel"]
+- !private ["So18UIFocusEnvironmentP", "evalFormula"]
+- !private ["So18UIFocusEnvironmentP", "formatAnswer"]
+- !private ["So18UIFocusEnvironmentP", "formatFormula"]
+- !private ["So18UIFocusEnvironmentP", "formulaLabel"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "titleLabel"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So11UIFocusItemP", "titleLabel"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So20UIFocusItemContainerP", "titleLabel"]
+- !private ["So7UILabelC", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "Expression"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSString"]
+- !private ["So30UIPasteConfigurationSupportingP", "String"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "answerLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "evalFormula"]
+- !private ["So30UIPasteConfigurationSupportingP", "formatAnswer"]
+- !private ["So30UIPasteConfigurationSupportingP", "formatFormula"]
+- !private ["So30UIPasteConfigurationSupportingP", "formulaLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "titleLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "Expression"]
+- !private ["So11UIResponderC", "NSString"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "answerCal"]
+- ["So11UIResponderC", "answerLabel"]
+- ["So11UIResponderC", "clearCal"]
+- ["So11UIResponderC", "evalFormula"]
+- ["So11UIResponderC", "formatAnswer"]
+- ["So11UIResponderC", "formatFormula"]
+- ["So11UIResponderC", "formulaLabel"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "inputFormula"]
+- !private ["So11UIResponderC", "text"]
+- !private ["So11UIResponderC", "titleLabel"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "Expression"]
+- !private ["So30UIResponderStandardEditActionsP", "NSString"]
+- !private ["So30UIResponderStandardEditActionsP", "String"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "answerLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "evalFormula"]
+- !private ["So30UIResponderStandardEditActionsP", "formatAnswer"]
+- !private ["So30UIResponderStandardEditActionsP", "formatFormula"]
+- !private ["So30UIResponderStandardEditActionsP", "formulaLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "titleLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "titleLabel"]
+- !private ["So16UIStateRestoringP", "Expression"]
+- !private ["So16UIStateRestoringP", "NSString"]
+- !private ["So16UIStateRestoringP", "String"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "answerLabel"]
+- !private ["So16UIStateRestoringP", "evalFormula"]
+- !private ["So16UIStateRestoringP", "formatAnswer"]
+- !private ["So16UIStateRestoringP", "formatFormula"]
+- !private ["So16UIStateRestoringP", "formulaLabel"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "Expression"]
+- !private ["So18UITraitEnvironmentP", "NSString"]
+- !private ["So18UITraitEnvironmentP", "String"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "answerLabel"]
+- !private ["So18UITraitEnvironmentP", "evalFormula"]
+- !private ["So18UITraitEnvironmentP", "formatAnswer"]
+- !private ["So18UITraitEnvironmentP", "formatFormula"]
+- !private ["So18UITraitEnvironmentP", "formulaLabel"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "titleLabel"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "Expression"]
+- !private ["So23UIUserActivityRestoringP", "NSString"]
+- !private ["So23UIUserActivityRestoringP", "String"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "answerLabel"]
+- !private ["So23UIUserActivityRestoringP", "evalFormula"]
+- !private ["So23UIUserActivityRestoringP", "formatAnswer"]
+- !private ["So23UIUserActivityRestoringP", "formatFormula"]
+- !private ["So23UIUserActivityRestoringP", "formulaLabel"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "titleLabel"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "text"]
+- !private ["So6UIViewC", "titleLabel"]
+- !private ["So16UIViewControllerC", "Expression"]
+- !private ["So16UIViewControllerC", "NSString"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "answerCal"]
+- ["So16UIViewControllerC", "answerLabel"]
+- ["So16UIViewControllerC", "clearCal"]
+- ["So16UIViewControllerC", "evalFormula"]
+- ["So16UIViewControllerC", "formatAnswer"]
+- ["So16UIViewControllerC", "formatFormula"]
+- ["So16UIViewControllerC", "formulaLabel"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "inputFormula"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["13CalculatorApp14ViewControllerC", "Expression"]
+- !private ["13CalculatorApp14ViewControllerC", "NSString"]
+- ["13CalculatorApp14ViewControllerC", "String"]
+- ["13CalculatorApp14ViewControllerC", "UIButton"]
+- ["13CalculatorApp14ViewControllerC", "UILabel"]
+- ["13CalculatorApp14ViewControllerC", "answerCal"]
+- ["13CalculatorApp14ViewControllerC", "answerLabel"]
+- ["13CalculatorApp14ViewControllerC", "clearCal"]
+- !private ["13CalculatorApp14ViewControllerC", "evalFormula"]
+- !private ["13CalculatorApp14ViewControllerC", "formatAnswer"]
+- !private ["13CalculatorApp14ViewControllerC", "formatFormula"]
+- ["13CalculatorApp14ViewControllerC", "formulaLabel"]
+- ["13CalculatorApp14ViewControllerC", "init"]
+- ["13CalculatorApp14ViewControllerC", "inputFormula"]
+- ["13CalculatorApp14ViewControllerC", "viewDidLoad"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "titleLabel"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "replacingOccurrences"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "replacingOccurrences"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "replacingOccurrences"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "replacingOccurrences"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "replacingOccurrences"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "CompareOptions"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "replacingOccurrences"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CompareOptions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Expression"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "answerLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "evalFormula"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "formatAnswer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "formatFormula"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "formulaLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "replacingOccurrences"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "titleLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "replacingOccurrences"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "replacingOccurrences"]
+depends-nominal:
+- !private "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "So22NSStringCompareOptionsV"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "13CalculatorApp14ViewControllerC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Expression/Expression.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "09d5a0cb1ec765d4a01159231f852f1f"

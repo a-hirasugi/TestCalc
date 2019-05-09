@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
 options: "95a7d3199172ba3426ab93464c3018bd"
-build_time: [1557292039, 110140000]
+build_time: [1557293287, 179345000]
 inputs:
-  "/Users/ta-takahashi/Desktop/CalculatorApp/CalculatorApp/ViewController.swift": !dirty [1554444975, 0]
-  "/Users/ta-takahashi/Desktop/CalculatorApp/CalculatorApp/AppDelegate.swift": !dirty [1554433610, 0]
+  "/Users/ta-takahashi/Desktop/CalculatorApp/CalculatorApp/ViewController.swift": [1554444975, 0]
+  "/Users/ta-takahashi/Desktop/CalculatorApp/CalculatorApp/AppDelegate.swift": [1554433610, 0]

@@ -84,6 +84,7 @@ depends-member:
 - ["s23CustomStringConvertibleP", ""]
 - !private ["s23CustomStringConvertibleP", "answerLabel"]
 - !private ["s23CustomStringConvertibleP", "evalFormula"]
+- !private ["s23CustomStringConvertibleP", "evaluate"]
 - !private ["s23CustomStringConvertibleP", "formatAnswer"]
 - !private ["s23CustomStringConvertibleP", "formatFormula"]
 - !private ["s23CustomStringConvertibleP", "formulaLabel"]
@@ -132,6 +133,8 @@ depends-member:
 - !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
 - !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
 - !private ["s33ExpressibleByUnicodeScalarLiteralP", "replacingOccurrences"]
+- !private ["10ExpressionAAC", "evaluate"]
+- !private ["10ExpressionAAC", "init"]
 - !private ["SH", "CompareOptions"]
 - !private ["SH", "Expression"]
 - !private ["SH", "NSString"]
@@ -491,6 +494,7 @@ depends-nominal:
 - !private "s23ExpressibleByNilLiteralP"
 - !private "s26ExpressibleByStringLiteralP"
 - !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "10ExpressionAAC"
 - "SH"
 - !private "s25LosslessStringConvertibleP"
 - !private "s10MirrorPathP"
@@ -551,6 +555,7 @@ depends-nominal:
 depends-dynamic-lookup:
 depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Expression/Expression.framework/Modules/Expression.swiftmodule/arm64.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
@@ -563,6 +568,9 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Expression/Expression.framework/Headers/Expression-umbrella.h"
+- "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Expression/Expression.framework/Headers/Expression.h"
+- "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Expression/Expression.framework/Headers/Expression-Swift.h"
 - "/Users/ta-takahashi/Desktop/CalculatorApp/ddp/Build/Products/Debug-iphoneos/Expression/Expression.framework/Modules/module.modulemap"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"

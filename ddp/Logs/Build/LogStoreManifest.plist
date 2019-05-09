@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>F5458CDB-38BE-4C65-9AED-166D477168F8</key>
+		<key>0BFF04F5-23D2-442A-A5C5-D837EF752CE6</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>F5458CDB-38BE-4C65-9AED-166D477168F8.xcactivitylog</string>
+			<string>0BFF04F5-23D2-442A-A5C5-D837EF752CE6.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,13 +27,42 @@
 			<key>signature</key>
 			<string>Testing workspace CalculatorApp with scheme CalculatorApp</string>
 			<key>timeStartedRecording</key>
-			<real>578984838.31520104</real>
+			<real>578992302.93027306</real>
 			<key>timeStoppedRecording</key>
-			<real>578984849.05001497</real>
+			<real>578992303.84158003</real>
 			<key>title</key>
 			<string>Testing workspace CalculatorApp with scheme CalculatorApp</string>
 			<key>uniqueIdentifier</key>
-			<string>F5458CDB-38BE-4C65-9AED-166D477168F8</string>
+			<string>0BFF04F5-23D2-442A-A5C5-D837EF752CE6</string>
+		</dict>
+		<key>A4CF951A-CFBC-4C1F-A4A1-B3FE82866663</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A4CF951A-CFBC-4C1F-A4A1-B3FE82866663.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CalculatorApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CalculatorApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing workspace CalculatorApp with scheme CalculatorApp</string>
+			<key>timeStartedRecording</key>
+			<real>578986086.57173502</real>
+			<key>timeStoppedRecording</key>
+			<real>578986087.82676494</real>
+			<key>title</key>
+			<string>Testing workspace CalculatorApp with scheme CalculatorApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A4CF951A-CFBC-4C1F-A4A1-B3FE82866663</string>
 		</dict>
 	</dict>
 </dict>
