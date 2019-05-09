@@ -15,8 +15,8 @@ class CalculatorAppUITests: XCTestCase {
     override func setUp() {
 
         super.setUp()
-        continueAfterFailure = false
-        app.launch()
+        self.continueAfterFailure = false
+        self.app.launch()
     }
 
     override func tearDown() {
@@ -24,15 +24,16 @@ class CalculatorAppUITests: XCTestCase {
         super.tearDown()
     }
 
-    func testMoveCalcButton() {
+    func testClearCalcButton() {
 
         let btn = self.app.buttons["clear_btn"]
-//        let button = XCUIApplication().buttons["clear_btn"]
         XCTAssertTrue(btn.exists)
         XCTAssertTrue(btn.isEnabled)
+        XCTAssertEqual(btn.label, "C")
 //        XCTContext.runActivity(named: "初期表示でTextViewの文言を確認") { (activity) in
 //            waitToAppear(for: app.textViews["main_title"])
 //            XCTAssertEqual(app.textViews["main_title"].value as? String, "計算機")
 //        }
+        btn.tap()
     }
 }
